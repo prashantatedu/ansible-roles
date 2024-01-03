@@ -8,7 +8,7 @@ service_account: ec2-user
 
 ##### Nexus details
 nexusserverip: 3.25.119.202
-nexus_repo: javaapp1
+nexus_repo: javaapp2
 nexus_appname: myapp1
 
 ##### Dotnet variables
