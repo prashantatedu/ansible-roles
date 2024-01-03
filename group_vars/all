@@ -7,7 +7,7 @@ tomcat_users_path: "{{tomcat_path}}/conf/"
 service_account: ec2-user
 
 ##### Nexus details
-nexusserverip: 3.25.119.202
+nexusserverip: 54.206.47.131
 nexus_repo: javaapp2
 nexus_appname: myapp1
 
